@@ -1,0 +1,19 @@
+h1{
+   padding-left: 20px; 
+}
+
+ol{
+    padding-left: 70px; 
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.centerEl,#score{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
